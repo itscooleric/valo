@@ -16,6 +16,14 @@ config.read('config.ini')
 user_name = config.get('user', 'name')
 user_email = config.get('user', 'email')
 
+# File paths
+valo = {
+    "path": {
+        "schedule": "./data/schedule",
+        "vods": "./data/vods",
+    }
+}
+
 class VLRScraper:
     def __init__(self):
         self.last_html = None
@@ -42,6 +50,7 @@ class VLRScraper:
 
     def set_last_html(self, html):
         self.last_html = html
+    
 vlr = VLRScraper()
 def scrape_vlr_matches(num_pages=1):
     """
