@@ -1,0 +1,2597 @@
+{
+    "data": {
+        "schedule": {
+            "events": [
+                {
+                    "startTime": "2023-04-01T19:00:00Z",
+                    "blockName": "Week 1",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571192",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571193",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "Ygl9i0epe80"
+                                },
+                                {
+                                    "parameter": "QX2v6eixKTc"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571194",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "a4oWn-d-hOs"
+                                },
+                                {
+                                    "parameter": "URHaE33xRdA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571195",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "J-f3mVWX5g8"
+                                },
+                                {
+                                    "parameter": "Fa-t0BTsdHk"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-01T22:00:00Z",
+                    "blockName": "Week 1",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571228",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571229",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "wXkz5Lbt6Mo"
+                                },
+                                {
+                                    "parameter": "G0Wod1pMFao"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571230",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "vPlOF7SX3zo"
+                                },
+                                {
+                                    "parameter": "CJoh8Kx-TJo"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571231",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-02T19:00:00Z",
+                    "blockName": "Week 1",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571308",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571309",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "noEeq06Najk"
+                                },
+                                {
+                                    "parameter": "wfsj1DhnmEs"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636846",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "D2swMr8KVR0"
+                                },
+                                {
+                                    "parameter": "0M1tkgfwr5o"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636847",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "7qMEgLbGQ6U"
+                                },
+                                {
+                                    "parameter": "oZY38FxdVqw"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-02T22:00:00Z",
+                    "blockName": "Week 1",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636880",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            },
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636881",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "XRjEdT6rNp8"
+                                },
+                                {
+                                    "parameter": "XEuxZ2oekyQ"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636882",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "vWyCow01vIw"
+                                },
+                                {
+                                    "parameter": "tl0h2YyHO5A"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636883",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-03T19:00:00Z",
+                    "blockName": "Week 1",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636900",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636901",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "fFdRQooIr44"
+                                },
+                                {
+                                    "parameter": "U4V-lYd3b00"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636902",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "1r1F2R39bUU"
+                                },
+                                {
+                                    "parameter": "dZ8H4iYDsRc"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636903",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-08T19:00:00Z",
+                    "blockName": "Week 2",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636864",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636865",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "2SFabYyz-8s"
+                                },
+                                {
+                                    "parameter": "9RsBp9QnfVQ"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636866",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "1ILyrjvV30Y"
+                                },
+                                {
+                                    "parameter": "KNUqlo_1jgQ"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636867",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "9-QdnBStAxM"
+                                },
+                                {
+                                    "parameter": "HJ2S8K51wc8"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-08T22:00:00Z",
+                    "blockName": "Week 2",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571252",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571253",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "8pij-Asy4mE"
+                                },
+                                {
+                                    "parameter": "sWSAXmdolo4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571254",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "MGshVSyHGbo"
+                                },
+                                {
+                                    "parameter": "4yH8dTfNuUk"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571255",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "9vIbLOU2pF4"
+                                },
+                                {
+                                    "parameter": "ymjJm6KvUAY"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-09T19:00:00Z",
+                    "blockName": "Week 2",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571276",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571277",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "0Q-EFxS5Bv0"
+                                },
+                                {
+                                    "parameter": "h1Pl6Tw2CVM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571278",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "-hh4g6pPrcc"
+                                },
+                                {
+                                    "parameter": "ZYBlTzqmwD4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571279",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-09T22:00:00Z",
+                    "blockName": "Week 2",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571284",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571285",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "l2PGb3DreAk"
+                                },
+                                {
+                                    "parameter": "7FOgboAT6y8"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571286",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "_M2SWfQYzp4"
+                                },
+                                {
+                                    "parameter": "ZglZfaxK5G4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571287",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "6qxN5CPtpIc"
+                                },
+                                {
+                                    "parameter": "nRLwpA9ztGM"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-10T19:00:00Z",
+                    "blockName": "Week 2",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571212",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571213",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "HQcbHTYP4TM"
+                                },
+                                {
+                                    "parameter": "H0aEEY1hB2g"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571214",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "MbChN49uCDU"
+                                },
+                                {
+                                    "parameter": "JdgtVzVHyIM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571215",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-15T19:00:00Z",
+                    "blockName": "Week 3",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571208",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571209",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "vDCwxXL_1pU"
+                                },
+                                {
+                                    "parameter": "EjFeGvAT9Us"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571210",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "lMev237jaDA"
+                                },
+                                {
+                                    "parameter": "W1kzmf-mGQA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571211",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-15T22:00:00Z",
+                    "blockName": "Week 3",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636856",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636857",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "bqgbiRR_i1c"
+                                },
+                                {
+                                    "parameter": "mY8wsTNXORc"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636858",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "hanoQcARqwM"
+                                },
+                                {
+                                    "parameter": "SpyPWbdC6T0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636859",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "ton5s_mHcLc"
+                                },
+                                {
+                                    "parameter": "iap4lBlQ6X4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-16T19:00:00Z",
+                    "blockName": "Week 3",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571280",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571281",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "LLMkQmJdk2c"
+                                },
+                                {
+                                    "parameter": "26LeKly5mP4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571282",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "fKkq1Hjf-gg"
+                                },
+                                {
+                                    "parameter": "vE1H-z2cxfE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571283",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "_wMkEZ34U_k"
+                                },
+                                {
+                                    "parameter": "Eh5mL3yYWoo"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-16T22:00:00Z",
+                    "blockName": "Week 3",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571296",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571297",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "0CgZhjPSW04"
+                                },
+                                {
+                                    "parameter": "3_CqBene7-0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571298",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "xdX175UA0Dw"
+                                },
+                                {
+                                    "parameter": "wzRC6S1pbgs"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571299",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "EpX3fnwKeok"
+                                },
+                                {
+                                    "parameter": "5RyYHqHlM8U"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-17T19:00:00Z",
+                    "blockName": "Week 3",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571236",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571237",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "O5ZADr4gA48"
+                                },
+                                {
+                                    "parameter": "A8tNOW1Lz-U"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571238",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "qdy9I7lPjm8"
+                                },
+                                {
+                                    "parameter": "kKOt3nJqlq4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571239",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-21T19:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571264",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571265",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "QMjAGfktC6k"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571266",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "rW15oPpt9V8"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571267",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "h1Jlq17OfE4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-21T22:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636860",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636861",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "BJYxZSsQ1zU"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636862",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "qxu4xsAnOec"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636863",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-22T19:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571196",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571197",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "2_QWFjR-m-I"
+                                },
+                                {
+                                    "parameter": "o6GofRWnYEk"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571198",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "uh_nWPjlH5s"
+                                },
+                                {
+                                    "parameter": "hDeXNWhDNXI"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571199",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "-0c9T1KlvcA"
+                                },
+                                {
+                                    "parameter": "66Xu1JUtjT4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-22T22:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571244",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571245",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "lsdXevCCQu0"
+                                },
+                                {
+                                    "parameter": "j8XWEycSfAo"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571246",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "aLVqo4UskIw"
+                                },
+                                {
+                                    "parameter": "-8lTdhLDB2o"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571247",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "TUImyw7GjS0"
+                                },
+                                {
+                                    "parameter": "jd21SdDdL0M"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-23T19:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636884",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636885",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "hMb03CFi7F0"
+                                },
+                                {
+                                    "parameter": "RpAVCQS9a14"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636886",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "u7iRRMAJR98"
+                                },
+                                {
+                                    "parameter": "HunYgPsKEZQ"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636887",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "hq8RxIcALi4"
+                                },
+                                {
+                                    "parameter": "PaEUSYHF38c"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-23T22:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571260",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571261",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "JxICfpCIDT8"
+                                },
+                                {
+                                    "parameter": "uS4fiyczPCA"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571262",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "I5cCddH_J8U"
+                                },
+                                {
+                                    "parameter": "enjRGoFQFRM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571263",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-24T19:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571220",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571221",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "5cjNJrZ8jCg"
+                                },
+                                {
+                                    "parameter": "2MBcYRn8kns"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571222",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "fdr39N00prE"
+                                },
+                                {
+                                    "parameter": "6v9hMNRzCM4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571223",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "KQyCe2v_Wws"
+                                },
+                                {
+                                    "parameter": "m-qNQG2NC-Y"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-24T22:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636868",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636869",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "E8dzIiudAFU"
+                                },
+                                {
+                                    "parameter": "zl75i6N0oNM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636870",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "Lb8s_l4E3uY"
+                                },
+                                {
+                                    "parameter": "8kIVzM-KsVE"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636871",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "cIoWttbr4ks"
+                                },
+                                {
+                                    "parameter": "4wKAoUPHS8I"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-25T19:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571240",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571241",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "9mEIpEvFd6Q"
+                                },
+                                {
+                                    "parameter": "guRcTA24460"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571242",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "jalkRLgAy2s"
+                                },
+                                {
+                                    "parameter": "p7xVff-4p0o"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571243",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-25T22:00:00Z",
+                    "blockName": "Week 4",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571300",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571301",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "sDxO_5pmh0w"
+                                },
+                                {
+                                    "parameter": "5RrTT8JI_Bw"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571302",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "DFZsM-Wy0mo"
+                                },
+                                {
+                                    "parameter": "9y8NWjkWL1k"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571303",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-29T19:00:00Z",
+                    "blockName": "Week 5",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571216",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571217",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "PjqIoi58xeU"
+                                },
+                                {
+                                    "parameter": "jdytowxd7_Y"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571218",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "ppZXLbXbyHY"
+                                },
+                                {
+                                    "parameter": "mLe0OrYwr-0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571219",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-29T22:00:00Z",
+                    "blockName": "Week 5",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571232",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571233",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "Kci7CaoHSME"
+                                },
+                                {
+                                    "parameter": "o8951VTj0yc"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571234",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "Ft0TO0zd_Jw"
+                                },
+                                {
+                                    "parameter": "zve6HFii8QQ"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571235",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-30T19:00:00Z",
+                    "blockName": "Week 5",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571268",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571269",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "UIqdY5LoQHY"
+                                },
+                                {
+                                    "parameter": "2GXLLkvPqgk"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571270",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "_g7QCWrdL0c"
+                                },
+                                {
+                                    "parameter": "jlvgtq3qZe0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571271",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-04-30T22:00:00Z",
+                    "blockName": "Week 5",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636896",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            },
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636897",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "ApJcBkFuGVI"
+                                },
+                                {
+                                    "parameter": "Xl5QbYia-jM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636898",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "KwVjEiWp0xw"
+                                },
+                                {
+                                    "parameter": "hxQTRp_3GCI"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636899",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "4CW17Sc4cso"
+                                },
+                                {
+                                    "parameter": "nKEwOSbP1qA"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-01T19:00:00Z",
+                    "blockName": "Week 5",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571288",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571289",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "AUBfW8r0s5k"
+                                },
+                                {
+                                    "parameter": "--MZPuJlVOI"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571290",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "gO28YwK6ND8"
+                                },
+                                {
+                                    "parameter": "nD1ao_yqs5M"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571291",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "z7WZKlQfTB0"
+                                },
+                                {
+                                    "parameter": "w3YKePmKums"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-06T19:00:00Z",
+                    "blockName": "Week 6",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571272",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Evil Geniuses",
+                                "code": "EG",
+                                "image": "http://static.lolesports.com/teams/1644568669110_CrestWhite1.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "Sentinels",
+                                "code": "SEN",
+                                "image": "http://static.lolesports.com/teams/sentinels.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571273",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "HfD1HS5TNz4"
+                                },
+                                {
+                                    "parameter": "mnSYHSV9nEI"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571274",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "YM5gZ_a2ge0"
+                                },
+                                {
+                                    "parameter": "hfiJSDtKkbo"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571275",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-06T22:00:00Z",
+                    "blockName": "Week 6",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243636848",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Cloud9",
+                                "code": "C9",
+                                "image": "http://static.lolesports.com/teams/Cloud9C9-01-FullonDark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "MIBR",
+                                "code": "MIBR",
+                                "image": "http://static.lolesports.com/teams/1648844013086_mibr_white-logo.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243636849",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "2KOR3mm7KI4"
+                                },
+                                {
+                                    "parameter": "YmsDas69IFU"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636850",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "Sfhij1jZxkQ"
+                                },
+                                {
+                                    "parameter": "f7x_Uhei5fI"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243636851",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-07T19:00:00Z",
+                    "blockName": "Week 6",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571204",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "LOUD",
+                                "code": "LOUD",
+                                "image": "http://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "100 Thieves",
+                                "code": "100T",
+                                "image": "http://static.lolesports.com/teams/1644966311613_100TVAL.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571205",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "9WyM_9Ul8ks"
+                                },
+                                {
+                                    "parameter": "aWetuGLRT_Y"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571206",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "cuiW7AA2G2I"
+                                },
+                                {
+                                    "parameter": "JbzKbAvnZF0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571207",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-07T22:00:00Z",
+                    "blockName": "Week 6",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571304",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "Leviatán Esports",
+                                "code": "LEV",
+                                "image": "http://static.lolesports.com/teams/1644148043034_Leviatncolor.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "KRÜ Esports",
+                                "code": "KRU",
+                                "image": "http://static.lolesports.com/teams/1630017626481_kru.png",
+                                "result": {
+                                    "gameWins": 0
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571305",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "KVQfOfHLrNQ"
+                                },
+                                {
+                                    "parameter": "n8995lh5Mu4"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571306",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "YCgWCCqpxJ8"
+                                },
+                                {
+                                    "parameter": "xIMlabhCkm0"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571307",
+                            "state": "unneeded",
+                            "vods": []
+                        }
+                    ]
+                },
+                {
+                    "startTime": "2023-05-08T19:00:00Z",
+                    "blockName": "Week 6",
+                    "league": {
+                        "name": "VCT Americas",
+                        "slug": "vct_americas"
+                    },
+                    "tournament": {
+                        "name": "2023"
+                    },
+                    "match": {
+                        "id": "109974888243571248",
+                        "type": "normal",
+                        "flags": [
+                            "hasVod"
+                        ],
+                        "teams": [
+                            {
+                                "name": "NRG",
+                                "code": "NRG",
+                                "image": "http://static.lolesports.com/teams/nrg-on-dark.png",
+                                "result": {
+                                    "gameWins": 2
+                                }
+                            },
+                            {
+                                "name": "FURIA",
+                                "code": "FUR",
+                                "image": "http://static.lolesports.com/teams/1644059765262_FURIA-LOGO.png",
+                                "result": {
+                                    "gameWins": 1
+                                }
+                            }
+                        ],
+                        "strategy": {
+                            "type": "bestOf",
+                            "count": 3
+                        }
+                    },
+                    "games": [
+                        {
+                            "id": "109974888243571249",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "x-5xMgx_E9U"
+                                },
+                                {
+                                    "parameter": "-lMVc75ZUjs"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571250",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "ojAInm9Pt6I"
+                                },
+                                {
+                                    "parameter": "BYLah5EhbdM"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109974888243571251",
+                            "state": "completed",
+                            "vods": [
+                                {
+                                    "parameter": "y2rmg1MHKHA"
+                                },
+                                {
+                                    "parameter": "wEBfIZ-rfiM"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
