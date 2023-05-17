@@ -133,7 +133,34 @@ def scrape_vlr_matches(num_pages=1):
     print(f"  - Total pages scraped: {num_pages}")
     print(f"  - Total matches scraped: {vlr.records_pulled}")
     return df
+    
+def scrape_vlr_events(url="https://www.vlr.gg/events"):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
+    events = soup.find_all(class_='wf-card mod-flex event-item')
+
+    event_data = []
+
+    for event in events:
+        event_name = event.find(class_='event-item-title').text.strip()
+        event_link = 'https://www.vlr.gg' + event['href']
+        event_status = event.find(class_='event-item-desc-item-status').text.strip()
+        event_prize_pool = event.find(class_='mod-prize').text.strip()
+        event_dates = event.find(class_='mod-dates').text.strip()
+        event_region = event.find(class_='flag').get('class')[1].replace('mod-', '')
+
+        event_data.append({
+            'Event Name': event_name,
+            'Event Link': event_link,
+            'Event Status': event_status,
+            'Prize Pool': event_prize_pool,
+            'Dates': event_dates,
+            'Region': event_region
+        })
+
+    df = pd.DataFrame(event_data)
+    return df
 def get_latest_session_timestamp(archive_folder):
     # List all files in the archive folder with the specific pattern
     file_pattern = os.path.join(archive_folder, "vlr_matches_*.csv")
@@ -179,21 +206,17 @@ def update_github_repo(user_name, user_email):
     # Push changes
     subprocess.run(['git', 'push'])
 
-# Scrape match data and add VOD URLs
-df = scrape_vlr_matches(num_pages)
-
-# Save the DataFrame to a CSV file
-filename = "./data/vlr_matches_with_vods.csv"
-df.to_csv(filename, index=False)
-
-
-# Save the DataFrame to a CSV file
-filename = "./data/vlr_matches.csv"
-df.to_csv(filename, index=False)
-
-# Push the CSV file to the GitHub repository
-update_github_repo(user_name, user_email)
-# Save the DataFrame to a csv file with date timestamp as yyyymmdd_hhmmss
-timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-filename = f"./data/archive/vlr_matches_{timestamp}.csv"
-df.to_csv(filename, index=False)
+def pull_vlr_data():
+    # Scrape match data and add VOD URLs
+    df = scrape_vlr_matches(num_pages)
+    
+    # Save the DataFrame to a CSV file
+    filename = "./data/vlr_matches.csv"
+    df.to_csv(filename, index=False)
+    
+    # Push the CSV file to the GitHub repository
+    update_github_repo(user_name, user_email)
+    # Save the DataFrame to a csv file with date timestamp as yyyymmdd_hhmmss
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"./data/archive/vlr_matches_{timestamp}.csv"
+    df.to_csv(filename, index=False)
