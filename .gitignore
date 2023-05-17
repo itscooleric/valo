@@ -2,3 +2,5 @@
 venv
 .config
 *replit*
+*.lock
+*.toml
